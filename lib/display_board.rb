@@ -6,5 +6,6 @@
 
 board = [" "," "," "," "," "," "," "," "," "]
 def display_board(board)
-puts = display_board(X)
+puts = board
 end
+display_board
